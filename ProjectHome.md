@@ -1,0 +1,1 @@
+jMaps has now moved to [Github](http://github.com/digitalspaghetti/jmaps/)
